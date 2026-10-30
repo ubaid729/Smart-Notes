@@ -4,17 +4,19 @@ A clean, responsive note-taking mobile application built with Flutter, Provider,
 
 ---
 
-##  App Previews
+## 📱 App Previews
 
 | Login | Sign Up | Forgot Password |
 | :---: | :---: | :---: |
-| <img src="screenshots/login.jpg" width="220" /> | <img src="screenshots/signup.jpg" width="220" /> | <img src="screenshots/reset password.jpg" width="220" /> |
+| <img src="screenshots/login.jpg" width="220" /> | <img src="screenshots/signup.jpg" width="220" /> | <img src="screenshots/reset_password.jpg" width="220" /> |
 
-| Notes List & Search | Navigation Drawer | Add Note | Settings (Dark Mode) |
-| :---: | :---: | :---: | :---: |
-| <img src="screenshots/home page.jpg" width="200" /> | <img src="screenshots/logout.jpg" width="200" /> | <img src="screenshots/setting.jpg" width="200" /> | <img src="screenshots/add notes.jpg" width="200" /> | <img src="screenshots/my notes.jpg" width="200" /> |
+| Empty Notes | Notes with Data | Add Note |
+| :---: | :---: | :---: |
+| <img src="screenshots/home_page.jpg" width="220" /> | <img src="screenshots/my_notes.jpg" width="220" /> | <img src="screenshots/add_notes.jpg" width="220" /> |
 
----
+| Navigation Drawer | Settings (Dark Mode) |
+| :---: | :---: |
+| <img src="screenshots/logout.jpg" width="220" /> | <img src="screenshots/setting.jpg" width="220" /> |
 
 ##  Features
 
