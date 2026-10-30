@@ -64,7 +64,7 @@ class _AddNoteScreenState extends State<AddNoteScreen> {
                             },
                           ),
                           const SizedBox(height: 20),
-                          CustomTextField(
+                          CustomTextField( 
                             controller: descriptionController,
                             hintText: "Description",
                             prefixIcon: Icons.description,
